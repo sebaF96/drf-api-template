@@ -19,3 +19,4 @@ tzlocal==2.1
 urllib3==1.26.2
 whitenoise==5.2.0
 python-dotenv==0.15.0
+mysqlclient
