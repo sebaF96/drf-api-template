@@ -7,10 +7,10 @@ using Django and django-rest-framework, including JWT auth using Django default 
 For this template to work, it needs a **.env** file with the following information:
 
 ```
-DB_USERNAME=''
-DB_PASSWORD=''
-DB_NAME=''
-DB_PORT=''
 DB_ENGINE=''
+DB_NAME=''
+DB_USER=''
+DB_PASSWORD=''
+DB_PORT=''
 SECRET_KEY=''
 ```
