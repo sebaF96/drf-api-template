@@ -15,9 +15,9 @@ DB_PORT=''
 SECRET_KEY=''
 ```
 
-## Try it with Docker :whale2:
+## Try it with Docker :whale:
 
-In order to test this template with docker, you need to clone this repo,
+In order to try this template with docker, you need to clone this repo,
 build the image and run it.
 
 1.
